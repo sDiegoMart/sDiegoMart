@@ -1,6 +1,6 @@
 # ¡Hola! Soy Diego Martinez 👋
 
-![Bienvenida](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Bienvenida](https://i.pinimg.com/originals/04/d4/50/04d45030af00b248e9cf11c9e9f0021c.gif)
 
 ## Sobre mí
 
