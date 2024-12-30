@@ -3,7 +3,7 @@
 ![Bienvenida](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ## Sobre mí
-```html
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200">
 </p>
